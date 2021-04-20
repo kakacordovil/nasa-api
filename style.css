@@ -25,3 +25,11 @@ body {
     padding: 20px;
     padding-top: 25px;
 }
+
+
+img {
+    vertical-align: middle;
+    border-style: none;
+    margin-bottom: 77px;
+    margin-top: 30px;
+}
